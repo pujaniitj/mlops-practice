@@ -1,0 +1,54 @@
+_wandb:
+    value:
+        cli_version: 0.26.1
+        e:
+            iifp6o7o79ib0nccneykwf1l3qfcoqem:
+                codePath: inference.py
+                codePathLocal: inference.py
+                cpu_count: 2
+                cpu_count_logical: 4
+                disk:
+                    /:
+                        total: "156659560448"
+                        used: "94045188096"
+                email: pujaniitj@gmail.com
+                executable: C:\Users\LENOVO\AppData\Local\Python\pythoncore-3.14-64\python.exe
+                host: DESKTOP-2QPGCPK
+                memory:
+                    total: "8317546496"
+                os: Windows-10-10.0.19045-SP0
+                program: C:\Users\LENOVO\Documents\mlops-practice\inference.py
+                python: CPython 3.14.2
+                root: C:\Users\LENOVO\Documents\mlops-practice
+                startedAt: "2026-05-06T13:10:16.198296Z"
+                writerId: iifp6o7o79ib0nccneykwf1l3qfcoqem
+        m: []
+        python_version: 3.14.2
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+            "2":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.14.2
+            "5": 0.26.1
+            "6": 5.8.0
+            "8":
+                - 3
+            "12": 0.26.1
+            "13": windows-amd64
+device:
+    value: cpu
+model_name:
+    value: Helsinki-NLP/opus-mt-hi-en

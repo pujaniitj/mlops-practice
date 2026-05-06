@@ -1,0 +1,19 @@
+{"time":"2026-05-06T18:40:20.6709031+05:30","level":"INFO","msg":"wandb-core"}
+{"time":"2026-05-06T18:40:20.675156+05:30","level":"INFO","msg":"stream: starting","core version":"0.26.1"}
+{"time":"2026-05-06T18:40:22.9335718+05:30","level":"INFO","msg":"stream: created new stream","id":"cm4dd5cj"}
+{"time":"2026-05-06T18:40:22.9335718+05:30","level":"INFO","msg":"handler: started"}
+{"time":"2026-05-06T18:40:22.9474081+05:30","level":"INFO","msg":"stream: started"}
+{"time":"2026-05-06T18:40:22.9474081+05:30","level":"INFO","msg":"writer: started","stream_id":"cm4dd5cj"}
+{"time":"2026-05-06T18:40:22.9474081+05:30","level":"INFO","msg":"sender: started"}
+{"time":"2026-05-06T18:40:24.0146333+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"console_offset":0,"console_lines":2}
+{"time":"2026-05-06T18:40:24.6930874+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-06T18:40:39.0141962+05:30","level":"INFO","msg":"filestream: sending request","total_files":3,"history_offset":0,"history_lines":1,"console_offset":2,"console_lines":33,"uploaded_len":2}
+{"time":"2026-05-06T18:40:39.7613651+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-06T18:40:41.9181905+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-05-06T18:40:41.9188519+05:30","level":"INFO","msg":"filestream: sending request","total_files":0,"uploaded_len":4,"complete":true,"exit_code":0}
+{"time":"2026-05-06T18:40:42.3248445+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-06T18:40:42.3272485+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-05-06T18:40:42.3459784+05:30","level":"INFO","msg":"stream: finishing up"}
+{"time":"2026-05-06T18:40:42.3459784+05:30","level":"INFO","msg":"handler: closed"}
+{"time":"2026-05-06T18:40:42.3495548+05:30","level":"INFO","msg":"sender: closed"}
+{"time":"2026-05-06T18:40:42.3495548+05:30","level":"INFO","msg":"stream: all finished"}
